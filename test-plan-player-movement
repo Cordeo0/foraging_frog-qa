@@ -1,0 +1,32 @@
+Project: Foraging Frog
+
+Version: 0.4.0
+
+Objective: Verify player movement works as intended
+
+In Scope:
+Jumping
+Camera
+Animation
+Audio
+Collision
+
+Out of Scope:
+UI
+Settings
+
+Enviroment:
+Windows 10
+Godot 4.4
+
+Aproach: Manual Testing using predefined test cases
+
+Exit Criteria:
+No Critial bugs
+Regression testing Completed
+Test cases seen-through
+
+Deliverables:
+Bug reports
+Test cases 
+Regression Checklist
