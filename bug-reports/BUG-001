@@ -1,0 +1,30 @@
+ID:
+BUG-001
+
+Title:
+Wall-hit sound effect plays repeatedly while player slides down wall after initial collision. 
+
+Environment:
+Windows 10 Version 22H2 
+Game Version 0.3.9
+
+Steps:
+1. Launch game
+2. Move to rightmost wall
+3. Jump into corner until touching wall
+4. Jump up the wall
+
+Expected:
+Wall-hit sound should play on players first collision with wall 
+
+Actual:
+Wall-hit sound repeatedly triggers while player remains in contact with wall
+
+Fixed:
+Yes
+
+Severity:
+Medium
+
+Priority:
+High
