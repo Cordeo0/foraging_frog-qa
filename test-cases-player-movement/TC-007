@@ -1,0 +1,27 @@
+ID: TC-007
+
+Title:
+Testing Player collision with ceiling
+
+Feature:
+Player Collision
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Move player to a platform they can reach
+2. Aim player to hit the bottom of the platform 
+3. Jump into bottom of platform
+
+
+Expected Results:
+Player stops when colliding with wall.
+Player cannot move through wall.
+Player lands after colliding.
+
+Actual Results: 
+
+
+Status: 
+Not Run
