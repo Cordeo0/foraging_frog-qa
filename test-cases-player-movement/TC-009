@@ -1,0 +1,23 @@
+ID: TC-009
+
+Title:
+Testing Player audio while moving
+
+Feature:
+Audio
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Jump into platform wall
+
+
+Expected Results:
+Launch sound is played, wall thud is played, landing sound is played
+
+Actual Results: 
+
+
+Status: 
+Not Run
