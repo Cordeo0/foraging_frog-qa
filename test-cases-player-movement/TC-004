@@ -1,0 +1,23 @@
+ID: TC-004
+
+Title:
+Testing Camera Following Respawn
+
+Feature:
+Camera Movement
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Jump to your left until you see the edge
+2. Jump off edge into void
+
+Expected Results:
+Camera Follows player to respawn point. 
+
+Actual Results: 
+
+
+Status: 
+Not Run
