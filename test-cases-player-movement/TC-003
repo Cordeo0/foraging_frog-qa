@@ -1,0 +1,24 @@
+ID: TC-003
+
+Title:
+Testing Camera following player
+
+Feature:
+Camera Movement
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Click Left Mouse Button and hold on the screen
+2. Drag in opposite direction of movement
+3. Release Left Mouse Button
+
+Expected Results:
+Camera Follows player 
+
+Actual Results: 
+
+
+Status: 
+Not Run
