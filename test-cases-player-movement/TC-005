@@ -1,0 +1,23 @@
+ID: TC-005
+
+Title:
+Testing Camera from heights
+
+Feature:
+Camera Movement
+
+Preconditions:
+- Game is launched
+- Player is in the clouds section
+
+Steps:
+1. Jump off platform
+
+Expected Results:
+Camera Follows player 
+
+Actual Results: 
+
+
+Status: 
+Not Run
