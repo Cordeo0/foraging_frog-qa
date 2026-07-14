@@ -1,0 +1,25 @@
+ID: TC-006
+
+Title:
+Testing Player is blocked by solid walls.
+
+Feature:
+Player Collision
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Move player to the right-most wall
+2. Jump into wall
+
+
+Expected Results:
+Player stops when colliding with wall.
+Player cannot move through wall.
+
+Actual Results: 
+
+
+Status: 
+Not Run
