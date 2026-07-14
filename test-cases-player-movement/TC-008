@@ -1,0 +1,25 @@
+ID: TC-008
+
+Title:
+Testing Player slides down walls properly
+
+Feature:
+Player Collision
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Move player to a platform they can reach
+2. Jump into side wall of platform
+
+Expected Results:
+Player stops on x-axis when colliding with wall.
+Player cannot move through wall.
+Player slides down back onto the ground.
+
+Actual Results: 
+
+
+Status: 
+Not Run
