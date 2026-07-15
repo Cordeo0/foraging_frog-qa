@@ -1,0 +1,25 @@
+ID: TC-010  
+
+Title:
+Testing Players platform collision
+
+Feature:
+Player Collision
+
+Preconditions:
+- Game is launched
+
+Steps:
+1. Move player to a platform
+2. Jump onto platform
+
+
+Expected Results:
+Player stops when landing on platform.
+Player cannot move through wall.
+
+Actual Results: 
+
+
+Status: 
+Not Run
